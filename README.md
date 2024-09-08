@@ -4,4 +4,4 @@
 Desafio criando Relatório
 
 - Desafio de projeto BI Analyst
-Desafio criação relatorios gerencial de vendas em BI.
+Desafio criação relatorios gerenciais de vendas em BI.
